@@ -14,6 +14,8 @@ NCCU 2026 Fall Multimedia Networks - Arduino Examples
 | [`04_ultrasonic`](./04_ultrasonic) | 超音波測距 輸出 |
 | [`05_display`](./05_display) | 七位顯示器 顯示 |
 | [`06_radar`](./06_radar) | 倒車雷達 集大成 |
+| [`07_bonus_bluetooth`](./07_bonus_bluetooth) | Bonus 藍牙通訊 |
+
 
 ---
 
