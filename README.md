@@ -21,5 +21,4 @@ NCCU 2026 Fall Multimedia Networks - Arduino Examples
 
 ## License
 
-Copyright (c) 2026 [Patrick Fang/政大資工]. All rights reserved.  
-本專案所有教學簡報、程式碼及教材僅供國立政治大學 115-1 多媒體網路課程修課學生內部參考，未經授權禁止任何形式的轉載、修改、公開散佈或商業用途。
+Copyright (c) 2026 **Patrick Fang**. All rights reserved.  
